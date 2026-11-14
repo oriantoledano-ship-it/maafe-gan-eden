@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/trays.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/g-opening.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/g-night.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/v-passion.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/v-mango.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/v-cremino.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/c-breakfast.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/c-pizza.jpg</image:loc></image:image>
+    <image:image><image:loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/assets/img/c-salad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/accessibility.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/privacy.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://oriantoledano-ship-it.github.io/maafe-gan-eden/terms.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>
