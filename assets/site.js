@@ -49,7 +49,7 @@
     ticking = false;
     var y = window.scrollY;
     navEl.classList.toggle('is-stuck', y > 10);
-    if (heroImg && !motionOff() && y < hero.offsetHeight) heroImg.style.setProperty('--py', (y * 0.22).toFixed(1) + 'px');
+    if (heroImg && !motionOff() && y < hero.offsetHeight) heroImg.style.setProperty('--py', (y * (window.innerWidth > 900 ? 0.05 : 0.22)).toFixed(1) + 'px');
     document.body.classList.toggle('mcta-on', y > hero.offsetHeight * 0.72);
   }
   window.addEventListener('scroll', function () {
