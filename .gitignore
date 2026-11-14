@@ -6,3 +6,4 @@ node_modules/
 .DS_Store
 _build/
 graphify-out/
+_card/
