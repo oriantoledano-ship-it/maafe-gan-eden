@@ -201,7 +201,7 @@ section { position: relative; }
 .dish h3::after { content: ""; flex: 1; border-bottom: 1.5px dotted rgba(184, 137, 63, .7); transform: translateY(-5px); }
 .dish p { margin: 8px 0 0; font-size: 16px; color: var(--ink-soft); }
 .carte__note { text-align: center; margin: clamp(30px, 4vw, 48px) 0 0; padding-top: 24px; border-top: 1px solid var(--line); color: var(--ink-soft); }
-.carte__note a { color: var(--ink); font-weight: 700; text-decoration-color: var(--gold); text-underline-offset: 4px; }
+.carte__note a { white-space: nowrap; color: var(--ink); font-weight: 700; text-decoration-color: var(--gold); text-underline-offset: 4px; }
 
 /* ---------- trays (dark, lit like the sign at night) ---------- */
 .trays { background: var(--night); color: var(--cream); padding: clamp(80px, 11vw, 140px) 0; overflow: hidden; }
